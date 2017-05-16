@@ -2,13 +2,13 @@
 
 <widget xmins="http://www.w3.org/ns/widgets"
  xmlns:gap="http://phonegap.com/ns/1.0"
- id="com.phonegap.example7"
+ id="com.phonegap.example8"
  version="1.0.0">
  
- <name> app6 BATALLA DE PUEBLA</name>
+ <name> App7 Deslizar(swipe)</name>
  
  <description>
- Aplicacion que muestra los DATOS sobre la batalla de puebla
+ Aplicacion que muestra acciones del clular
  </description>
  
  <author href="https://build.phonegap.com" email="genismirandaangel82@gmail.com">
