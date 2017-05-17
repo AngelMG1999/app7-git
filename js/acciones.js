@@ -17,7 +17,7 @@ $('#derecha').on("swiperight",function(){
 			break;
 			
 			case 2:
-			navigator.notification.vibrar(1000);
+			navigator.notification.vibrate(1000);
 			break;
 			
 		}
